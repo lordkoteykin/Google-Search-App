@@ -5,7 +5,7 @@ This is a simple app that fetches Google search results for the first page and d
 ## Features
 - Fetch Google search results for a given query.
 - Display results in the same order as they appear on Google.
-- Save results to a TXT file.
+- Save results to a JSON file.
 
 ## Prerequisites
 Before using this app, ensure the following software is installed on your system:
@@ -33,4 +33,4 @@ Before using this app, ensure the following software is installed on your system
 3. **Search for results**:
    - Enter a search query in the input field and press "Search" or hit **Enter**.
    - The app will display the first page of Google search results in the same order as they appear on Google.
-   - You can save the results to a TXT file by clicking the "Download Results" button.
+   - You can save the results to a JSON file by clicking the "Download Results" button.

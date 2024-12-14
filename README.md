@@ -13,7 +13,7 @@ Before using this app, ensure the following software is installed on your system
 - NPM (comes with Node.js)
 
 ## Installation
-1. **Clone this repository** to your local machine
+1. **Clone this repository and extract the ZIP archive** to your local machine 
    
 2. **Navigate into the project folder**:
    cd google-search-app

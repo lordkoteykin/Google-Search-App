@@ -131,7 +131,7 @@
             const blob = new Blob([data], { type: "text/plain" });
             const link = document.createElement("a");
             link.href = URL.createObjectURL(blob);
-            link.download = "search_results.txt";
+            link.download = "search_results.json";
             link.click();
         }
     </script>

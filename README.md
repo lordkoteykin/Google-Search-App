@@ -33,4 +33,4 @@ Before using this app, ensure the following software is installed on your system
 3. **Search for results**:
    - Enter a search query in the input field and press "Search" or hit **Enter**.
    - The app will display the first page of Google search results in the same order as they appear on Google.
-   - You can save the results to a JSON file by clicking the "Download Results" button.
+   - You can save the results by clicking the "Download Results" button.
